@@ -1,6 +1,6 @@
 # fastapi-test
 
-create a virtual environment using pip <br>
+create a virtual environment using pip (refer https://python.land/virtual-environments/virtualenv)<br>
 download the requirements <br>
 <br>
 uvicorn src.main:app --reload to run the code
