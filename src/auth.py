@@ -37,5 +37,4 @@ class AuthHandler():
             raise HTTPException(status_code=401, detail='Invalid Token')
     
     def auth_wrapper(self, auth: HTTPAuthorizationCredentials = Security(security)):
-        print(auth.credentials)
         return self.decode_token(auth.credentials)
