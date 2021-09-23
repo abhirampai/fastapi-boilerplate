@@ -1,4 +1,4 @@
-# fastapi-test
+# fastapi-boilerplate
 
 create a virtual environment using pip (refer https://python.land/virtual-environments/virtualenv)<br>
 download the requirements <br>
