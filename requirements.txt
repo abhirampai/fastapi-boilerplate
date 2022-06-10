@@ -1,5 +1,5 @@
 bcrypt==3.2.2
-cffi==1.14.5
+cffi==1.15.0
 click==7.1.2
 dnspython==2.2.1
 fastapi==0.65.2
