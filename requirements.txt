@@ -3,7 +3,7 @@ cffi==1.15.0
 click==7.1.2
 dnspython==2.2.1
 fastapi==0.65.2
-h11==0.12.0
+h11==0.13.0
 passlib==1.7.4
 pycparser==2.21
 pydantic==1.9.1
