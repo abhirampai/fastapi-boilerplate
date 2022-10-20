@@ -7,7 +7,7 @@ h11==0.14.0
 passlib==1.7.4
 pycparser==2.21
 pydantic==1.10.2
-PyJWT==2.5.0
+PyJWT==2.6.0
 pymongo==4.3.2
 python-dotenv==0.21.0
 six==1.16.0
