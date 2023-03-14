@@ -11,6 +11,6 @@ PyJWT==2.6.0
 pymongo==4.3.3
 python-dotenv==0.21.1
 six==1.16.0
-starlette==0.25.0
+starlette==0.26.1
 typing-extensions==4.4.0
 uvicorn==0.20.0
