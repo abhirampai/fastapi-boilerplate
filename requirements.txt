@@ -12,5 +12,5 @@ pymongo==4.3.3
 python-dotenv==1.0.0
 six==1.16.0
 starlette==0.26.1
-typing-extensions==4.4.0
+typing-extensions==4.5.0
 uvicorn==0.20.0
